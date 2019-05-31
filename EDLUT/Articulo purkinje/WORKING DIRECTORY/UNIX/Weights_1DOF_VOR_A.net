@@ -1,0 +1,22 @@
+
+// mf-GrC Connections 0.35
+8000 0.0
+
+// GrC-PC Connections
+//40000 3.70
+20000 3.45
+20000 3.45
+
+// IO-PC Connections
+//20 0.0
+10 40.0
+10 40.0
+
+
+// MF-DCN Connections
+100 0.0
+100 0.0
+
+// PC-DCN Connections
+10 0.15
+10 0.15
